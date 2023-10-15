@@ -1,0 +1,12 @@
+
+body,p,html {color: rgb(0,0,0);font-size: large;}
+
+table {
+  table-layout: fixed;
+	align="left";
+  width: 90%;
+  border-collapse: collapse;
+  border: 0px;
+}
+
+

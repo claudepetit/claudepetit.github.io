@@ -1,0 +1,187 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<title>Claude Petit</title>
+<meta content="Homepage of Claude PETIT" name="Description">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="Petit, Claude Petit, Claude Petit Math" name="Keywords" lang="eng">
+<meta name="author" content="">
+<meta http-equiv="content-style-type" content="text/css">
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css" media="print">
+.wg-maxheight {}
+</style>
+<style type="text/css" media="screen">
+.wg-maxheight { height:100%; }
+</style>
+ 
+<script src="jquery.min.js"></script>
+<script src="bib-list-min.js"></script>
+<script type="text/javascript" src="jquery.js"></script>
+<script src="js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="bib-publication-list.js"></script>	
+<link rel="stylesheet" href="bib-publication-list.css"/> 
+<script type="text/javascript">
+$(document).ready(function() {bibtexify("#bibtex", "pubTable");});
+</script> 
+
+</head>
+
+<body bgcolor=GREY>
+
+<table class="wg-paragraph" align="center" cellpadding="2" cellspacing="6" height="550" width="700">
+  <tbody>
+ 	<tr>
+	<td>
+	<font size="4"><table id="pubTable" cellpadding="10" cellspacing="0" width="600"></table></font>   
+	<pre id="bibtex">
+	
+	@techreport{BateniMD,
+		  author    = {Amir{-}Hossein Bateni and
+			       Arshak Minasyan and
+			       Arnak S. Dalalyan},
+		  title     = {Nearly minimax robust estimator of the mean vector by iterative spectral
+			       dimension reduction},
+		  number    = {2204.02323},
+		  year      = {2022},
+		  url       = {https://doi.org/10.48550/arXiv.2204.02323},
+		  institution = {arXiv},
+	       	  month     = {April},
+	          type      = {submitted},
+	          pages     = {1-35},
+		}
+	
+	@inproceedings{TinsiD22,
+		  author    = {Laura Tinsi and
+			       Arnak S. Dalalyan},
+		  editor    = {Po{-}Ling Loh and
+			       Maxim Raginsky},
+		  title     = {Risk bounds for aggregated shallow neural networks using Gaussian
+			       priors},
+		  booktitle = {Conference on Learning Theory, July 2022},
+		  series    = {Proceedings of Machine Learning Research},
+		  volume    = {178},
+		  pages     = {227--253},
+		  publisher = {{PMLR}},
+		  year      = {2022},
+		  url       = {https://proceedings.mlr.press/v178/tinsi22a.html},
+		  }
+</pre>
+ 	
+	</td>
+	</tr> 
+</tbody>
+</table>
+</tr>
+</tbody>
+</table>
+
+<P align=justify>
+<BIG>
+<B><FONT size=6 style="COLOR: rgb(255,255,255)">Claude PETIT</FONT></B>
+<BR>
+Email: <SPAN style="COLOR: rgb(151,250,50)"> claude.petit@inria.fr</SPAN>
+<BR>
+<BR>
+</BIG> 
+</P>
+
+<FONT style="COLOR: rgb(255,255,255)"> ABOUT
+</FONT>
+<HR align="left" width="100%" style="COLOR: rgb(255,255,255)" noshade>
+
+
+I'm professor of mathematics, detached researcher at Inria and statistician at INSEE.
+
+<BR>
+<BR>
+
+<FONT size=4 style="COLOR: rgb(255,255,255)"> RESEARCH INTERESTS
+<HR align="left" width="100%" style="COLOR: rgb(255,255,255)" noshade>
+</FONT>
+
+<P>
+<ul>
+	<li> Machine Learning.
+	<li> Probability and statistics in high dimension.
+	<li> Compressive sensing and data compression.
+	<li> Graph signal processing.
+</ul>
+</P>
+
+<BR>
+<FONT size=4 style="COLOR: rgb(255,255,255)"> PUBLICATIONS
+</FONT>
+<HR align="left" width="100%" style="COLOR: rgb(255,255,255)" noshade>
+<BR>
+
+<TABLE>
+<TR>
+<TD style="width:150px;height:40px">Year</TD><TD style="width:150px">Type</TD><TD>Publication</TD>
+</TR>
+<TR> </TR>
+
+<TR>
+<TD style="width:150px;height:60px">2023</TD><TD><FONT color="#FFDDFF">Journal
+</FONT></TD><TD>
+Algorithms for Extracting Maximum Volume of Rectangular Submatrices Above the Rank. Claude Petit, Aline Roumy, Thomas Maugey (2023). <I>Submitted in IEEE Transactions in Signal Processing</I>.(<a href="https://inria.hal.science/hal-04132343v1">link</a>) 
+</TD>
+</TR>
+
+<TR>
+<TD  style="width:150px;height:80px">2023</TD><TD><FONT color="#FFDDFF">
+Conference
+</FONT></TD><TD>
+A Water-filling Algorithm Maximizing the Volume of Submatrices Above the Rank. Claude Petit , Aline Roumy , Thomas Maugey (2023). <I>EUSIPCO 2023 - 31st European Signal Processing Conference, Sep 2023, Helsinki, Finland. pp.1-5</I>.(<a href="https://inria.hal.science/hal-04132343v1">link</a>)</TD>
+</TR>
+<TR>
+<TD>2023</TD><TD><FONT color="#FFDDFF">
+Conference
+</FONT></TD>
+<TD>
+Algorithme de type « Water-Filling » maximisant le volume de matrices rectangulaires au-delà du rang. Claude Petit , Aline Roumy , Thomas Maugey (2023). <I>GRETSI 2023 - XXIXe colloque francophone de traitement du signal et des images, Aug 2023, Grenoble, France. pp.1-4.</I>(<a href="https://inria.hal.science/hal-04156155v1">link</a>)
+</TD>
+</TR>
+</TABLE>
+
+
+<BR>
+<FONT style="COLOR: rgb(255,255,255)"> TEACHING
+</FONT>
+<HR align="left" width="100%" style="COLOR: rgb(255,255,255)" noshade>
+<BR>
+
+<TABLE>
+<TR>
+<TD style="width:150px">2021-2024</TD><TD>
+<a href="presentation.RSM.2023.pdf" style="text-decoration:none;"
+  onMouseOver="JavaScript:document.bouton1.src='im/boutonrouge.gif';"
+  onMouseOut="JavaScript:document.bouton1.src='im/boutonvert.gif';"
+  onMouseDown="JavaScript:document.bouton1.src='im/boutonjaune.gif';">
+  <img src="im/boutonvert.gif" name="bouton1" border="0" align="textop">
+<FONT COLOR=BLACK>Statistique mathématique. Mastère ENSAI</FONT></a></TD>
+</TR>
+<TR>
+<TD>2018-2021</TD><TD>a</TD>
+</TR>
+<TR>
+<TD>2015-2018</TD><TD>z</TD>
+</TR>
+<TD>2012-2015</TD><TD>s</TD>
+</TR>
+<TD>1997-2010</TD><TD>s</TD>
+</TR>
+</TABLE>
+
+
+
+<!-- vert:rgb(51,255,153),gris:bgcolor=#696969 -->
+			
+</body>			
+</html>
+
+
